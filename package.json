@@ -1,0 +1,14 @@
+{
+    "type": "module",
+    "packageManager": "pnpm@9.4.0",
+    "dependencies": {
+        "@trpc/client": "11.0.0-rc.522",
+        "@trpc/server": "11.0.0-rc.522",
+        "zod": "^3.23.8"
+    },
+    "devDependencies": {
+        "@types/node": "^22.5.5",
+        "tsx": "^4.19.1"
+    },
+    "prettier": {}
+}
